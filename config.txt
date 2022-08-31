@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "fOKD7OGpjXlCWLYKGu64c1Xvvi3EWSr8KY6FY4n32PQ",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["o89Z-6ertbGMq9IMfc8ahM8DzjsE"],
+"user": ["o89Z-6eEoaS5reuEA3c2mjwYqqMw"],
  
 # 信息配置
 # 和风天气apikey
